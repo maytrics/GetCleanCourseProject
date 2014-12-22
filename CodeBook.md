@@ -93,11 +93,17 @@ Rest of the columns contain means or standard deviation measurements, averaged b
 
 ### Example:
 Subject	Activity		Measurement Variable 1
+
 1	LAYING			AverageValue
+
 1	SITTING			AverageValue
+
 1	STANDING		AverageValue
+
 1	WALKING			AverageValue
+
 1	WALKING_DOWNSTAIRS	AverageValue
+
 1	WALKING_UPSTAIRS	AverageValue
 
 
